@@ -36,7 +36,6 @@ Advanced_Time_Series_Forecasting/
 ├── 🔄 DL_Baseline_SimpleRNN.ipynb   
 ├── 🎯 DL_Hybrid_CNN_LSTM.ipynb       
 ├── ⚡ DL_Transformer.ipynb           
-├── 📁 project/                        
 ├── 📋 requirements.txt                
 └── 📖 README.md                       
 ```
